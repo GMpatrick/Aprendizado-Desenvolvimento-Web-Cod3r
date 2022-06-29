@@ -7,6 +7,15 @@
     
     "configurations": [
         {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/016-Clouseres.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
