@@ -1,0 +1,8 @@
+Como organizar uma aplicação javascript.
+
+Primeira coisa a se perguntar, você esta organizando uma aplicação front-end que vai executar no browser ou uma aplicação back-end usando o node como runtime
+
+padrão de exportação de modulos do node mais usados são o:
+    - common javascript
+    - import / export 
+
