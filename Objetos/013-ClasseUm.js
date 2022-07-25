@@ -32,3 +32,5 @@ const contas = new CicloFinanceiro(6, 2022)
 contas.addLancamentos(salario, contaDeLuz)
 
 console.log(contas.sumario())
+
+console.log(typeof Array)
